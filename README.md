@@ -1,7 +1,7 @@
 # Ethan-TreeView
 Welcome to my program
 
-The file is details the history of crimes statistics from 2004 to 2015 per province and station per type of crime in South Africa.
+The file details the history of crimes statistics from 2004 to 2015 per province and station per type of crime in South Africa.
 
 1. Display the contents of the CSV file in tabular format.
 2. Report on the amount of crimes that occurred in a user specified province and period.
