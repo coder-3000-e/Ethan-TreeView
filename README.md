@@ -1,4 +1,4 @@
-# Ethan-TreeView
+# TreeView
 Welcome to my program
 
 The file details the history of crimes statistics from 2004 to 2015 per province and station per type of crime in South Africa.
