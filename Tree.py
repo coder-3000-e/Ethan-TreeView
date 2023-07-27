@@ -1,4 +1,3 @@
-#Ethan Lourens
 import pandas as pd #import pandas Library
 from tkinter import ttk 
 from tkinter import * #import tkinter Library
